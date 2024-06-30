@@ -1,1 +1,13 @@
+In this project we have performed three types of operations they are:
 
+MOVEMENT BASED:
+Movement based enable users to help when we tilt the MEMS sensor downwards it moves forward.when we tilt the MEMS sensor upwards it moves backwards .
+whenwe tilt the MEMS sensor right side it moves right side and when we tilt the MEMSsensor left side it moves left side.By this way we can control the wheel chair and we can move from one place to any place . 
+
+DEVICE SWITCHING:
+Device switching enable users to help when we tilt the MEMS sensor downwards then light will be ON.when we tilt the MEMS sensor upwards then light will be OFF .when we tilt the MEMS sensor right side then fan will be ON and when we tilt
+the MEMS sensor left side then fan will be OFF.By this way we can control the devices like fan,blub,T.V etc., this done with the device switching.
+
+VOICE ENABLE:
+Voice based enable users to help when we tilt the MEMS sensor downwards it announce as I need food. when we tilt the MEMS sensor upwards it announce as Ineed water.when we tilt the MEMS sensor right side it announce as I need medicine
+and when we tilt the MEMS sensor left side it announce as I need help .By this way we can what the person needs .
